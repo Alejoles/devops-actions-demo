@@ -9,7 +9,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: ./devops-actions-demo
+        working-directory: .
 
     steps:
       - name: Checkout code
